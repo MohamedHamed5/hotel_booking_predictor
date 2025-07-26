@@ -41,8 +41,11 @@ Supervised by: **Mariam Skoot** & **Waleed Seleem**
 
 ## Features
 Predicts whether a hotel booking will be cancelled or confirmed
+
 Forecasts ADR (Average Daily Rate) for given conditions
+
 Streamlit web interface for user-friendly experience
+
 Stores prediction outputs and allows downloadable insights (optional)
 
 ### Team Members:
