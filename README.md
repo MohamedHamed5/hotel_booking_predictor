@@ -4,11 +4,11 @@ A smart machine learning web app designed to help hotels predict:
 - **Booking Cancellations**
 - **Average Daily Rate (ADR)**
 
-[Try the App Live]()
+**Live App**: [Click here to try the app!](https://hotelbookingpredictor-ny8dt4zuasbmyrrozawuvo.streamlit.app/)
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ![App Screenshot](screenshot_app.png)
 
