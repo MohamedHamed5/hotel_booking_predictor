@@ -1,0 +1,39 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore macOS hidden file
+.DS_Store
+
+# Ignore virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Ignore temporary files
+*.log
+.ipynb_checkpoints/
+
+# Ignore editor settings
+.vscode/
+.idea/
+
+# Ignore machine learning artifacts
+*.pkl
+*.joblib
+*.sav
+
+# Ignore data & output files
+*.csv
+*.xlsx
+*.pdf
+
+# Ignore patient files or sensitive folders
+patient_files/
+patients_records.csv
+
+# Optional: if figures generated automatically
+# figures/
